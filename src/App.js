@@ -1,5 +1,5 @@
 import './App.css';
-import Tracks from "./Components/Tracks"
+import Tracks from "./Tracks"
 
 function App() {
   return (
