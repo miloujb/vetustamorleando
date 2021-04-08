@@ -4,7 +4,7 @@ import Tracks from "./Components/Tracks"
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Tracks />
     </div>
   );
 }
