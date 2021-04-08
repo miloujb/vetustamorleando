@@ -18,7 +18,7 @@
 .env.test.local
 .env.production.local
 secrets.js
-src/Components/Tracks.js
+Tracks.js
 
 npm-debug.log*
 yarn-debug.log*
